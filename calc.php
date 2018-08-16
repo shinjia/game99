@@ -59,7 +59,6 @@ $html = <<< HEREDOC
 <title>BMI</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-
 <body>
 <h1>你的BMI值為 {$bmi}</h1>
 <h2>{$msg}</h2>

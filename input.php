@@ -1,6 +1,5 @@
 <?php
 
-
 $html = <<< HEREDOC
 <!DOCTYPE html>
 <html>
@@ -9,7 +8,6 @@ $html = <<< HEREDOC
 <title>BMI</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-
 <body>
 <h1>檢測BMI</h1>
 
@@ -18,7 +16,6 @@ $html = <<< HEREDOC
 <p>身高：<input type="text" name="height"></p>
 <p>體重：<input type="text" name="weight"></p>
 <p><input type="submit" value="送出"></p>
-
 
 </form>
 
